@@ -1,0 +1,16 @@
+html{background-color: #ebd8b3;}
+
+H1, h2 {
+  font-family: "Hammersmith One";
+  line-height:1.5;
+  color: #be7f00;
+}
+
+ol {
+    list-style-type:none;
+    padding:0;
+  }
+
+em {
+  color: #e5aa34;
+}
