@@ -11,7 +11,7 @@ ol {
   }
 
 em {
-  color: #e5aa34;
+  color: #b88216;
 }
 
 blockquote {
@@ -43,3 +43,10 @@ a {
 
 a:hover {
   color:white;
+}
+
+footer {
+  font-size: 10px;
+  text-align: right;
+  line-height: 3;
+}
