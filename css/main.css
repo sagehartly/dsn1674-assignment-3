@@ -7,10 +7,39 @@ H1, h2 {
 }
 
 ol {
-    list-style-type:none;
-    padding:0;
+    list-style-type:lower-roman;
   }
 
 em {
   color: #e5aa34;
 }
+
+blockquote {
+  font-size: 18px;
+  font-style: italic;
+}
+
+ul {
+  list-style-type:none;
+  padding:0;
+}
+
+figcaption {
+  font-size: 10px;
+  font-style: italic;
+}
+
+dt {
+  font-weight:bold;
+}
+
+body {
+  font-family: arial;
+}
+
+a {
+  color: blue;
+}
+
+a:hover {
+  color:white;
